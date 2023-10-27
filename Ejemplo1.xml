@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type="text/xsl" href="C:\Users\Alexis García\Desktop\PRACTICA5_A190373\Ejemplo1.xsl"?>
+<perros>
+  <perro>
+    <Raza>Chiuhahua</Raza>
+    <Color>Blanco</Color>
+    <Procedencia>México</Procedencia>
+  </perro>
+  <perro>
+    <Raza>Doberman</Raza>
+    <Color>Café</Color>
+    <Procedencia>Alemania</Procedencia>
+  </perro>
+  <perro>
+    <Raza>Schnauzer</Raza>
+    <Color>Negro</Color>
+    <Procedencia>Alemania</Procedencia>
+  </perro>perro>
+</perros>

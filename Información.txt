@@ -1,0 +1,1 @@
+La práctica realizada se ejecuto en el Explorador web de Windows 7 y funciono correctamente, pero en windows 11 no fue así, del mismo modo utilizando el navegador web firefox.
